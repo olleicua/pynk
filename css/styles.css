@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #db6083;
+}
+
+#veil {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#veil canvas {
+  height: 100%;
+  width: 100%;
+}
+
+.letter {
+  font-size: 49vh;
+  font-family: sans-serif;
+  display: inline-block;
+  height: 49%;
+  width: 49%;
+  text-align: center;
+  color: #a50024;
+}
+
+.p {
+  grid-area: p;
+}
+
+.y {
+  grid-area: y;
+}
+
+.n {
+  grid-area: n;
+}
+
+.k {
+  grid-area: k;
+}
