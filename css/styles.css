@@ -16,6 +16,7 @@ body {
   left: 0;
   height: 100%;
   width: 100%;
+  mix-blend-mode: darken;
 }
 
 #veil canvas {
@@ -30,7 +31,7 @@ body {
   height: 49%;
   width: 49%;
   text-align: center;
-  color: #a50024;
+  color: #a52024;
 }
 
 .p {
