@@ -17,6 +17,7 @@ body {
   height: 100%;
   width: 100%;
   mix-blend-mode: darken;
+  background-color: #471f1b;
 }
 
 #veil canvas {
